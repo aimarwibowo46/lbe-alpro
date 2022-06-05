@@ -1,4 +1,4 @@
-# lbe-alpro
+# LBE ALPRO 
 Pada pertemuan pertama, diadakan welcome party bagi seluruh peserta LBE ALPRO 2020. 
 
 Pada pertemuan kedua, kita mendapatkan materi tentang HTML. Pada materi HTML ini kita diajarkan hal-hal dasar yang perlu dipersiakan seperti menyiapkan text editor dimana saya menggunakan Sublime Text. Kemudian dibahas juga element-element dalam HTML seperti &lt;p>, &lt;h1>, &lt;h2>, &lt;div>, &lt;span>, &lt;form>, dll. 
